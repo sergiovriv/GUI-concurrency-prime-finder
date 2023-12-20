@@ -22,7 +22,8 @@ This project provides a user-friendly Java application equipped with a graphical
 
 ## Usage Instructions:
 1. Clone the repository locally.
-2. Open the project in a compatible Java development environment.
-3. Run the VentanaPrincipal class to launch the application.
-4. Use the "+" and "-" buttons to adjust the number of consumer threads.
-5. Observe how the GUI displays real-time information about file processing progress and results.
+2. Unzip the "rand_files" directory in its current location.
+3. Open the project in a compatible Java development environment.
+4. Run the VentanaPrincipal class to launch the application.
+5. Use the "+" and "-" buttons to adjust the number of consumer threads.
+6. Observe how the GUI displays real-time information about file processing progress and results.
