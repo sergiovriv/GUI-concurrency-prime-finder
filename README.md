@@ -1,7 +1,6 @@
 # GUI-concurrency-prime-finder
 This project provides a user-friendly Java application equipped with a graphical user interface (GUI) for efficiently discovering prime numbers within a collection of text files. The program employs a robust producer-consumer pattern, leveraging multiple threads for concurrent file processing.
 
-It looks like this:
 ![alt text](https://github.com/sergiovriv/GUI-concurrency-prime-finder/blob/main/image.png)
 
 ## Features:
